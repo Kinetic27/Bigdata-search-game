@@ -1,0 +1,21 @@
+{
+    "name": "random-pic",
+    "version": "1.0.0",
+    "description": "just random pic",
+    "main": "app.js",
+    "dependencies": {
+        "ejs": "^3.0.1",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js",
+        "test": "node app.js"
+    },
+    "keywords": [
+        "randompic",
+        "nodejs"
+    ],
+    "author": "Kinetic27",
+    "license": "ISC"
+}
